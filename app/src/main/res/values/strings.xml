@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CloudPhone</string>
+    <string name="nav_fleet">Fleet</string>
+    <string name="nav_mini_desktop">Mini Desktop</string>
+    <string name="nav_apps">Cloud Apps</string>
+    <string name="create_phones_title">Create Cloud Phones</string>
+    <string name="pin_to_home">Pin to Home</string>
+    <string name="open_mini_desktop">Mini Desktop</string>
+    <string name="boot_phone">Boot OS</string>
+</resources>

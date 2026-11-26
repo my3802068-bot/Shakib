@@ -1,0 +1,6 @@
+{
+  "name": "CloudPhone",
+  "description": "Create unlimited Infinix & Realme Android 14 virtual cloud phones with smooth app execution and multi-window mini desktop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
